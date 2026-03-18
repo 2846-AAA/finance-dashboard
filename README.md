@@ -5,8 +5,8 @@ A full-stack banking-domain web application built with **React.js**, **Flask**, 
 ![Tech Stack](https://img.shields.io/badge/React-18-blue?logo=react) ![Flask](https://img.shields.io/badge/Flask-3.0-black?logo=flask) ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-green?logo=mongodb) ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
 
 ## Live Demo
-- **Frontend:** [https://finance-dashboard.vercel.app](https://finance-dashboard.vercel.app)
-- **Backend API:** [https://finance-dashboard-api.onrender.com](https://finance-dashboard-api.onrender.com)
+- **Frontend:** [https://finance-dashboard-7l6d.vercel.app](https://finance-dashboard-7l6d.vercel.app)
+- **Backend API:** [https://finance-dashboard-api-46pd.onrender.com](https://finance-dashboard-api-46pd.onrender.com)
 
 ---
 
@@ -36,7 +36,6 @@ A full-stack banking-domain web application built with **React.js**, **Flask**, 
 ---
 
 ## Project Structure
-
 ```
 finance-dashboard/
 ├── backend/
@@ -112,12 +111,6 @@ Open [http://localhost:5173](http://localhost:5173)
 
 - **Backend** deployed on [Render](https://render.com) as a Python web service
 - **Frontend** deployed on [Vercel](https://vercel.com) with environment variable `VITE_API_URL` pointing to the Render backend
-
----
-
-## Screenshots
-
-> Register → Login → Dashboard with charts → Add transactions → View analytics
 
 ---
 
